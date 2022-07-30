@@ -1,7 +1,7 @@
 # The-Green-Card-US-Immigration-Employment-Project
 Using statistical analysis and machine learning models to learn more about permanent immigration through employment.
 
-Feel free to read the full report titled, The Green Card: A Pathway To Living And Working In The U.S., to further explore my methodologies, analysis, and insights.
+Feel free to read the full report in my repository titled, The Green Card: A Pathway To Living And Working In The U.S., to further explore my methodology, analysis, and conclusions.
 
 Please use the Table of Contents, found below, to navigate the repository!
 
