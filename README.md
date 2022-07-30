@@ -14,7 +14,7 @@ The objective of the report is to provide an independent study into how an immig
 
 The project is concluded with a regression deep learning model, Random Forest model, and a Linear Regression model that all have an objective to estimate a particular applicant's annual wage offered. The project also includes a classification deep learning model, Upsampled Random Forest model, Downsampled Random Forest model, SMOTE Random Forest model, and a regular Random Forest model that all have an objective to estimate if a particular applicant will be successful and receive a certified status.
 
-Table of Contents:
+# Table of Contents:
 - Cleaning, EDA, and StatAnal: Analysis related to the PERM Green Card Immigration Employment data over 2015-2021.
 - Machine Learning and Deep Learning: Models predicting an applicant's Green Card outcome, days taken to decide an applicant, and annual wage offered.
 - The Green Card: A Pathway To Living And Working In The U.S.: A report summarizing my exploratory data analysis, statistical analysis, and machine learning applications.
