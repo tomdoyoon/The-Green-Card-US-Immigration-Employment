@@ -1,6 +1,10 @@
 # The-Green-Card-Immigration-Employment-Project
 Using statistical analysis and machine learning models to learn more about permanent immigration through employment.
 
+Feel free to read the full report titled, The Green Card: A Pathway To Living And Working In The U.S., to further explore my methodologies, analysis, and insights.
+
+Please use the Table of Contents, found below, to navigate the repository!
+
 # Introduction
 In this project I explore PERM (Green Card) data compiled from the U.S. Department of Labor over 2015-2021.
 
@@ -13,7 +17,7 @@ The project is concluded with a regression deep learning model, Random Forest mo
 Table of Contents:
 - Cleaning, EDA, and StatAnal: Analysis related to the PERM Green Card Immigration Employment data over 2015-2021.
 - Machine Learning and Deep Learning: Models predicting an applicant's Green Card outcome, days taken to decide an applicant, and annual wage offered.
-- The Green Card, Immigration Employment - A Pathway To Living In The U.S.: A report summarizing my exploratory data analysis, statistical analysis, and machine learning applications.
+- The Green Card: A Pathway To Living And Working In The U.S.: A report summarizing my exploratory data analysis, statistical analysis, and machine learning applications.
 
 # Observations and Findings:
 Model Evaluations:
