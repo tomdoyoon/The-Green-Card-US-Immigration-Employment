@@ -6,7 +6,12 @@ Feel free to read the full report titled, The Green Card: A Pathway To Living An
 Please use the Table of Contents, found below, to navigate the repository!
 
 # Introduction
-In this project I explore PERM (Green Card) data compiled from the U.S. Department of Labor over 2015-2021.
+In this project I explore PERM (Green Card) data compiled from the U.S. Department of Labor over 2014-2021. The data can be retrieved, partioned by year, from the Performance Data section of the Foreign Labor Certification section, under Employment and Training Administration.
+
+For ease of use, I cleaned and compiled each of the following year's PERM data:
+- FY2021, FY2020, FY2019, FY2018, FY2017, FY2016, and FY2015
+
+While data was available from FY2008, granular data on the applicant, employer, and application was only available from FY2015 to present. 
 
 I analyze the trends found within successfull applicants, while considering the fact that all applicants have already faced "success". This is due to the nature of the data - all applicants have already impressed an employer, passed the interviews, and received a job offer all as a foreign national. To provide further insight into the candidates that are chosen for Green Card sponsorship, I analyze not only features of candidates that eventually received a "certified" case status, but also every candidate an employer submited an application for.
 
