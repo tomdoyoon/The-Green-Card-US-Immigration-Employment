@@ -25,7 +25,11 @@ The project is concluded with a regression deep learning model, Random Forest mo
 - The Green Card: A Pathway To Living And Working In The U.S.: A report detailing my exploratory data analysis, statistical analysis, and machine learning applications on Green Card Immigration Employment data in the United States over 2014-2021.
 
 # Observations and Findings:
-Model Evaluations:
+
+- O
+
+
+# Model Evaluations:
 
 The top performing regression model would be 
 The top performing classification model would be
