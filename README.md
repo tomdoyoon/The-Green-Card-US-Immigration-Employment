@@ -3,7 +3,7 @@ Using data cleansing, natural language preprocessing, feature engineering, uniqu
 
 Feel free to read the full report in my repository titled, The Green Card: A Pathway To Living And Working In The U.S., to further explore my methodology, analysis, and conclusions.
 
-Please use the Table of Contents, found below, to navigate the repository!
+Please use the Table of Contents, found below, to navigate the project!
 
 # Introduction
 In this project I explore PERM (Green Card) data compiled from the U.S. Department of Labor over 2014-2021. The data can be retrieved, partioned by year, from the Performance Data section of the Foreign Labor Certification section, under Employment and Training Administration.
