@@ -21,12 +21,18 @@ The project is concluded with a regression deep learning model, Random Forest mo
 
 # Table of Contents:
 - Cleaning, EDA, and StatAnal: Analysis related to the PERM Green Card Immigration Employment data over 2014-2021.
-- Machine Learning and Deep Learning: Models predicting an applicant's Green Card outcome, days taken to decide an applicant, and annual wage offered.
+- Machine Learning and Deep Learning: Models predicting an applicant's Green Card outcome and annual wage offered.
 - The Green Card: A Pathway To Living And Working In The U.S.: A report detailing my exploratory data analysis, statistical analysis, and machine learning applications on Green Card Immigration Employment data in the United States over 2014-2021.
 
 # Observations and Findings:
 
-- O
+- Microsoft, Apple, Amazon, and Google have all never been outside of the top 15, ranked by total succesful applications.
+- The top 15 employers by total applications have a statistically significant higher success rate each year, and in aggregate, compared to companies not within the top 15.
+- Microsoft pays the most if you work out of NY and CA. NJ and FL also have a decent median wage, however, the experience required is higher compared to NY and CA.
+- Medium (1000-10000 employees) and Large (10000+ employees) companies have a statistically significant growth in success rate each year, while Small (<1000 employees) companies do not have a statistically significant growth in success rate. Medium and Large companies have a higher success rate (6% and 9%, respectively) compared to Small companies, and the difference is statistically significant.
+- Young (<15 years) companies have a statistically significant lower success rate than medium (15-30 years) and old (30+ years) companies. More established companies are 4% more successful than younger companies. 
+- Companies within the top 15 NAICS codes by applications, are 5% more successful than companies out of the top 15. However, both companies in the top 15 and not in the top 15 are growing in terms of success rates each year.
+- Applicants earning above the 33rd percentile of wages are 9% more succesful than those under the 33rd percentile. However, an applicant in the the 66th percentile and above, does not see a large benefit in comparison with an applicant in the 33rd to 66th percentile.
 
 
 # Model Evaluations:
