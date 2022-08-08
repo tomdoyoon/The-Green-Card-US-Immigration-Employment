@@ -1,11 +1,21 @@
 # The-Green-Card-US-Immigration-Employment-Project
-Using data cleansing, natural language preprocessing, feature engineering, unique identifier engineering, normalization techniques, anomly and outlier detection, statistical analysis, and machine learning models to learn more about permanent immigration through employment.
+
+# Abstract
+
+This report analyzes trends and relationships between features of prospective employers, employees, and jobs to determine how a hopeful immigrant can have the most successful chance in obtaining a Green Card through an employer. Every year, millions of immigrants become lawful permanent residents of the United States, also known as Green Card holders. In the FY 2020, over 60% of all successful Green Card applicants were either an immediate relative of U.S. citizens or related to a U.S. Citizen or Green Card holder. The most common method, outside of the family-based immigration method, is through the employment-based immigration method. Approximately 21% of new Green Card holders were sponsored by an employer or self-petitioned through investing to create U.S. jobs.
+
+The study compiles, cleans, and manipulates employment PERM (Green Card) data from the U.S. Department of Labor over FY 2015-FY 2021. The report details the natural language preprocessing, feature engineer, unique identifier engineering, normalization techniques, anomaly and outlier detection, statistical analysis and machine learning models used to learn more about permanent immigration through employment.
+
+An applicant should seek out jobs that have a minimum education level of a bachelor’s degree, as jobs that require a bachelor’s degree are 22% more successful than jobs that require a High School diploma or an associate degree. Software developer – applications, software developer – systems software, and computer systems analyst have an 8% advantage over other jobs. Applicants to a large company, with 10,000 or more employees, are 9% more likely to obtain a Green Card than an applicant to a small company, less than 1000 employees. Unfortunately, jobs that require formal training that are not employed by a hospital or university have a 62.29% success rate, compared to 94% for jobs at a hospital or university. 
+
+The objective of the report is to provide an independent study into how an immigrant can have the most successful chance at becoming permanently employed in the United States. This is done through analyzing and interpreting the trends found within the total PERM data sets. It is important to note, however, the changing nature of immigration and employment; what was the trend over the last seven years, may not repeat itself.
+
+# Introduction
 
 Feel free to read the full report in my repository titled, The Green Card: A Pathway To Living And Working In The U.S., to further explore my methodology, analysis, and conclusions.
 
 Please use the Table of Contents, found below, to navigate the project!
 
-# Introduction
 In this project I explore PERM (Green Card) data compiled from the U.S. Department of Labor over 2014-2021. The data can be retrieved, partioned by year, from the Performance Data section of the Foreign Labor Certification section, under Employment and Training Administration.
 
 For ease of use, I cleaned and compiled each of the following year's PERM data:
@@ -14,8 +24,6 @@ For ease of use, I cleaned and compiled each of the following year's PERM data:
 While data was available from FY2008, granular data on the applicant, employer, and application was only available from FY2015 to present. 
 
 I analyze the trends found within successful applicants, while considering the fact that all applicants have already faced "success". This is due to the nature of the data - all applicants have already impressed an employer, passed the interviews, and received a job offer all as a foreign national. To provide further insight into the candidates that are chosen for Green Card sponsorship, I analyze not only features of candidates that eventually received a "certified" case status, but also every candidate an employer submited an application for.
-
-The objective of the report is to provide an independent study into how an immigrant can have the most successful chance at becoming permanently employed (immigration through employment) in the United States. This is done through analyzing and interpretting the trends found within the total PERM data sets. It is important to note, however, the changing nature of immigration and employment. What was the trend over the last seven years, may not repeat itself for the next seven years.
 
 The project is concluded with a regression deep learning model, Random Forest model, and a Linear Regression model that all have an objective to estimate a particular applicant's annual wage offered. The project also includes a classification deep learning model, Upsampled Random Forest model, Downsampled Random Forest model, SMOTE Random Forest model, and a regular Random Forest model that all have an objective to estimate if a particular applicant will be successful and receive a certified status.
 
