@@ -52,6 +52,6 @@ Please read the full report for further insights about the observations and find
 
 The outcome of the Green Card application is heavily inbalanced, 93.317% of all applications were succesful.
 
-The top performing regression model would be the random forest model, with a MAE of XXXX and a relative MAE of XX%. The model had an Explained Variance score of XXXX.
+The top performing regression model would be the random forest model, with a MAE of 7232 and a relative MAE of 6.79%. The model had an Explained Variance score of .8699.
 
-The top performing classification model would be the random forest model, with a macro average F1 score of X, prediction of success had a F1 of XX and prediction of reject had a F1 of XX.
+The top performing classification model would be the random forest model with an over sample of the minority, with a macro average F1 score of .83. Prediction of success had a F1 of .98 and prediction of reject had a F1 of .67.
