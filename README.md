@@ -30,7 +30,7 @@ The project is concluded with a regression deep learning model, Random Forest mo
 # Table of Contents:
 - Cleaning, EDA, and StatAnal: Analysis related to the PERM Green Card Immigration Employment data over 2014-2021.
 - Machine Learning and Deep Learning: Models predicting an applicant's Green Card outcome and annual wage offered.
-- The Green Card: A Pathway To Living And Working In The United States: A report detailing my exploratory data analysis, statistical analysis, and machine learning applications on Green Card Immigration Employment data in the United States over 2014-2021.
+- The Green Card - A Pathway To Living And Working In The United States: A report detailing my exploratory data analysis, statistical analysis, and machine learning applications on Green Card Immigration Employment data in the United States over 2014-2021.
 
 # Observations and Findings:
 
