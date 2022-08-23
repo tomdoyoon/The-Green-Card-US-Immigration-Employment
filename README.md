@@ -12,8 +12,6 @@ The objective of the report is to provide an independent study into how an immig
 
 # Introduction
 
-Feel free to read the full report in my repository titled, The Green Card: A Pathway to Living and Working in The U.S., to further explore my methodology, analysis, and conclusions.
-
 Please use the Table of Contents, found below, to navigate the project!
 
 In this project I explore PERM (Green Card) data compiled from the U.S. Department of Labor over 2014-2021. The data can be retrieved, partitioned by year, from the Performance Data section of the Foreign Labor Certification section, under Employment and Training Administration.
@@ -30,7 +28,6 @@ The project is concluded with a regression deep learning model, Random Forest mo
 # Table of Contents:
 - Cleaning, EDA, and StatAnal: Analysis related to the PERM Green Card Immigration Employment data over 2014-2021.
 - Machine Learning and Deep Learning: Models predicting an applicant's Green Card outcome and annual wage offered.
-- The Green Card - A Pathway To Living And Working In The United States: A report detailing my exploratory data analysis, statistical analysis, and machine learning applications on Green Card Immigration Employment data in the United States over 2014-2021.
 
 # Observations and Findings:
 
