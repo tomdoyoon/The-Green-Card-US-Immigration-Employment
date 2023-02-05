@@ -23,11 +23,11 @@ While data was available from FY2008, granular data on the applicant, employer, 
 
 I analyze the trends found within successful applicants; however, it is important to note that all applicants have already faced "success". This is due to the nature of the data - all applicants have already impressed an employer, passed the interviews, and received a job offer all as a foreign national. To provide further insight into the candidates that are chosen for Green Card sponsorship, I analyze not only features of candidates that eventually received a "certified" case status, but also every candidate an employer applied for.
 
-The project is concluded with a regression deep learning model, Random Forest model, and a Linear Regression model that all have an objective to estimate a particular applicant's annual wage offered. The project also includes a classification deep learning model, Up sampled Random Forest model, Down sampled Random Forest model, SMOTE Random Forest model, and a regular Random Forest model that all have an objective to estimate if a particular applicant will be successful and receive a certified status.
+The project is concluded with a classification deep learning model, Up sampled Random Forest model, Down sampled Random Forest model, SMOTE Random Forest model, and a regular Random Forest model that all have an objective to estimate if a particular applicant will be successful and receive a certified status.
 
 # Table of Contents:
 - Cleaning, EDA, and StatAnal: Analysis related to the PERM Green Card Immigration Employment data over 2014-2021.
-- Machine Learning and Deep Learning: Models predicting an applicant's Green Card outcome and annual wage offered.
+- Machine Learning and Deep Learning: Models predicting an applicant's Green Card outcome.
 
 # Observations and Findings:
 
@@ -57,6 +57,7 @@ Please read the full report for further insights about the observations and find
 
 The outcome of the Green Card application is heavily imbalanced, 93.317% of all applications were successful.
 
-The top performing regression model would be the random forest model, with a MAE of 7232 and a relative MAE of 6.79%. The model had an Explained Variance score of .8699.
 
 The top performing classification model would be the random forest model with an over sample of the minority, with a macro average F1 score of .83. Prediction of success had a F1 of .98 and prediction of reject had a F1 of .67.
+
+It is important to note, that a random forest model without any resampling had a macro average F1 score of .XX. Prediction of success had a F1 of .XX and a prediction of reject had a F1 of .XX. From the initial observations, it does not appear that applying advanced resampling techniques provides a significant improvement.
