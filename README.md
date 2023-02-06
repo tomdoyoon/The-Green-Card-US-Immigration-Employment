@@ -60,4 +60,4 @@ The outcome of the Green Card application is heavily imbalanced, 93.317% of all 
 
 The top performing classification model would be the random forest model with an over sample of the minority, with a macro average F1 score of .83. Prediction of success had a F1 of .98 and prediction of reject had a F1 of .67.
 
-It is important to note, that a random forest model without any resampling had a macro average F1 score of .XX. Prediction of success had a F1 of .XX and a prediction of reject had a F1 of .XX. From the initial observations, it does not appear that applying advanced resampling techniques provides a significant improvement.
+It is important to note, that a random forest model without any resampling had a macro average F1 score of .82. Prediction of success had a F1 of .98 and a prediction of reject had a F1 of .66. From the initial observations, it does not appear that applying advanced resampling techniques provides a significant improvement.
